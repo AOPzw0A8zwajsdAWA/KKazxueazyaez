@@ -3,7 +3,7 @@ local Player = game.Players.LocalPlayer
 if game.Players.LocalPlayer.UserId == 
     1809198971 or
     4454302424 or
-    1776770887 or
+    1776770887
     then
     print("User is Whitelisted.")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AOPzw0A8zwajsdAWA/aowkcOXKOAW0/main/sADZZZasWASd2"))()
